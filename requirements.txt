@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+openai
+pyttsx3
+pyautogui
+speechrecognition
+python-dotenv
+flask
